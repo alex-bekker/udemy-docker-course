@@ -1,0 +1,14 @@
+{
+  "name": "udemy-docker-course",
+  "description": "Sample web app for 'Hands-on with Docker on AWS' course on Udemy.",
+  "version": "1.0.0",
+  "author": "Alex Bekker <alex.bekker@udemy.com>",
+  "dependencies": {
+    "express": "~4.13.1",
+    "mysql": "^2.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alex-bekker/udemy-docker-course.git"
+  }
+}
